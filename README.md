@@ -24,7 +24,7 @@ The document is [here](https://github.com/toin0u/Geotools-laravel/blob/7ad681731
 ```json
 {
     "require": {
-        "toin0u/geotools-laravel": "~1.0"
+        "adeb6600/geotools-laravel": "~1.0"
     }
 }
 ```
