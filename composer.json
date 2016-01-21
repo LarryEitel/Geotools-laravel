@@ -1,5 +1,5 @@
 {
-    "name"        : "toin0u/geotools-laravel",
+    "name"        : "adeb6600/geotools-laravel",
     "description" : "Geo-related tools PHP library for Laravel 4 & 5",
     "keywords"    : ["laravel", "geotools", "geometry", "geocoder", "geocoding", "geoip", "bounds", "distance", "batch", "async"],
     "homepage"    : "http://geotools-php.org/",
