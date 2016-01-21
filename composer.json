@@ -22,7 +22,7 @@
     "require" : {
         "php"                : ">=5.4",
         "illuminate/support" : "~5.0",
-        "adeb6600/geotools"    : "*"
+       
     },
 
     "require-dev" : {
